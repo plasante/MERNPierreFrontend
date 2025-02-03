@@ -1,7 +1,9 @@
+import Header from "./header/Header";
+
 function App() {
   return (
     <div>
-      Hello World!
+      <header><Header/></header>
     </div>
   );
 }
